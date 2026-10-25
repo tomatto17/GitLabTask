@@ -1,1 +1,2 @@
 This is my first GitHub lab task.
+File name corrected successfully
